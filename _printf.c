@@ -2,7 +2,7 @@
 
 /**
  * _printf - prints anythings
- * @format: the format string
+ * @format: the format strings
  *
  * Return: number of bytes printed
  */
