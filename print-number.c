@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _isdigit - checks if character is digit
- * @c: the character to check
+ * _isdigit - checks if character is digits
+ * @c: the characters to check
  *
  * Return: 1 if digit, 0 otherwise
  */
@@ -59,8 +59,8 @@ int print_number(char *str, params_t *params)
 
 /**
  * print_number_right_shift - prints a number with options
- * @str: the base number as a string
- * @params: the parameter struct
+ * @str: the base numbers as a string
+ * @params: the parameters struct
  *
  * Return: chars printed
  */
