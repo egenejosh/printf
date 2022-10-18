@@ -39,7 +39,7 @@ char *convert(long int num, int base, int flags, params_t *params)
 
 /**
  * print_unsigned - prints unsigned integer numbers
- * @ap: argument pointer
+ * @ap: arguments pointer
  * @params: the parameters struct
  *
  * Return: bytes printed
