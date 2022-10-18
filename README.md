@@ -1,3 +1,1 @@
-ALX printf Project
-
-Team: Josh and Orji
+This is the first duo task in the alx engineering program. 
